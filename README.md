@@ -7,12 +7,14 @@ This repository is your one-stop destination for building powerful IoT applicati
 To get started with the Raspberry Pi AWS IoT Applications, you'll need the following hardware components:
 
 - Raspberry Pi Model B
-- SD Card
-- Jumper Cables
+- NX3224T028 – Nextion 2.8” Basic Series HMI Touch Display
 - DHT11 Temperature and Humidity Sensor
 - HC-SR501 PIR Motion Sensor
 - HC-SR04 Ultrasonic Distance Sensor
 - SG90 Servo Motor
+- SD Card
+- Jumper Cables
+
 
 These components will serve as the foundation for building your IoT applications. Make sure you have everything on hand before diving into the exciting world of Raspberry Pi and AWS cloud services!
 
