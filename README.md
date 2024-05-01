@@ -11,6 +11,8 @@ To get started with the Raspberry Pi AWS IoT Applications, you'll need the follo
 - Jumper Cables
 - DHT11 Temperature and Humidity Sensor
 - HC-SR501 PIR Motion Sensor
+- HC-SR04 Ultrasonic Distance Sensor
+- SG90 Servo Motor
 
 These components will serve as the foundation for building your IoT applications. Make sure you have everything on hand before diving into the exciting world of Raspberry Pi and AWS cloud services!
 
