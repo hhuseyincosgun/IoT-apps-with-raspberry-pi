@@ -14,6 +14,7 @@ To get started with the Raspberry Pi AWS IoT Applications, you'll need the follo
 - SG90 Servo Motor
 - SD Card
 - Jumper Cables
+- Breadboard
 
 
 These components will serve as the foundation for building your IoT applications. Make sure you have everything on hand before diving into the exciting world of Raspberry Pi and AWS cloud services!
