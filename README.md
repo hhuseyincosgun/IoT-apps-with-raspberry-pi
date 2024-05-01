@@ -17,6 +17,7 @@ To get started with the Raspberry Pi AWS IoT Applications, you'll need the follo
 - Breadboard
 
 
+
 These components will serve as the foundation for building your IoT applications. Make sure you have everything on hand before diving into the exciting world of Raspberry Pi and AWS cloud services!
 
 https://docs.rs-online.com/6403/0900766b8127da4b.pdf
