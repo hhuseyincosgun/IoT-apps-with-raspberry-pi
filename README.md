@@ -16,6 +16,7 @@ To get started with the Raspberry Pi AWS IoT Applications, you'll need the follo
 - Jumper Cables
 - Breadboard
 
+![Components](https://github.com/hhuseyincosgun/IoT-apps-with-raspberry-pi/assets/21257660/c50d5024-bf2b-4575-9f84-7709016d45ac)
 
 
 These components will serve as the foundation for building your IoT applications. Make sure you have everything on hand before diving into the exciting world of Raspberry Pi and AWS cloud services!
