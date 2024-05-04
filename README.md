@@ -13,7 +13,7 @@ To get started with the Raspberry Pi AWS IoT Applications, you'll need the follo
 - HC-SR04 Ultrasonic Distance Sensor
 - SG90 Servo Motor
 - SD Card
-- Jumper Cables
+- Jumper Cable
 - Breadboard
 
 ![Components](https://github.com/hhuseyincosgun/IoT-apps-with-raspberry-pi/assets/21257660/c50d5024-bf2b-4575-9f84-7709016d45ac)
